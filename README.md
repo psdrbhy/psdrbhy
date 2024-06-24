@@ -4,10 +4,4 @@
 - wx:lu2841763
 
 <br>
-  <a href="https://github.com/psdrbhy">
-  <div >
-  <img src="https://github-readme-stats.vercel.app/api?username=psdrbhy&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="Moment's GitHub stats" style="zoom:100%;" align="left"/>
-</a>
-
- </div>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquan&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
